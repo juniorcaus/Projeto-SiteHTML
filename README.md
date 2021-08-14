@@ -1,2 +1,3 @@
 # Projeto-SiteHTML
- Utilizando HTML5 para criar um site simples 
+
+Estudando um pouco de HTML5, criei um site simples, apenas com HTML5, criando alguns links, páginas e utilizando tabelas.
